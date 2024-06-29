@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AccelamAllan
-- 👀 I’m interested in React Js 
+- 👀 I’m interested in React
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
